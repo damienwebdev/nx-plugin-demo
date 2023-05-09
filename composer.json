@@ -1,0 +1,18 @@
+{
+    "name": "damien/nx-plugin-demo-monorepo",
+    "description": "A monorepo of nx and php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Damien\\NxPluginDemoMonorepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damien Retzinger",
+            "email": "damienwebdev@gmail.com"
+        }
+    ],
+    "require": {}
+}

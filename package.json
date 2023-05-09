@@ -1,0 +1,22 @@
+{
+  "name": "nx-plugin-demo-monorepo",
+  "version": "1.0.0",
+  "description": "A monorepo that uses nx and php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienwebdev/nx-plugin-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damienwebdev/nx-plugin-demo/issues"
+  },
+  "homepage": "https://github.com/damienwebdev/nx-plugin-demo#readme",
+  "devDependencies": {
+    "nx": "^16.1.4"
+  }
+}
